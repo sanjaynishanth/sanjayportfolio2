@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Kadambam",
+    "description": "Kadambam is a real estate website that brings architectural charm to the digital space. Designed for a Coimbatore-based builder, the site is clean, mobile-responsive, and visually engaging.",
+    "highlights": [
+      "Built with React and Tailwind for speed and responsiveness",
+      "Integrated contact form with EmailJS",
+      "Deployed on a live domain for a real-world client"
+    ],
+    "image": "/src/assets/Kadambam.png",
+    "github": "https://github.com/sanjaynishanth/Kadambam-Frontend",
+    "live": "https://kadambangroup.com/",
+    "tech": ["React", "TailwindCSS"],
+    "role": "Frontend",
+    "year": "2024"
+  },
+  {
+    "name": "TODO Task Collabaration App",
+    "description": "A clean and intuitive Task Management Dashboard built for organizing daily to-dos. It supports task creation, updates, real-time status tracking, and team collaboration to boost productivity.",
+    "highlights": [
+      "Task Management: Create, update, and track tasks in real-time ",
+      "Team Collaboration: Assign, comment, and share tasks easily",
+      "Intuitive UI: Clean and user-friendly design for productivity"
+    ],
+    "image": "/src/assets/todo.png",
+    "github": "https://github.com/sanjaynishanth/ToDo-Frontend",
+    "live": "https://todo-frontend-kotomaran.netlify.app/",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "role": "Frontend-Backend",
+    "year": "2025"
+  },
+  {
+    "name": "TrendThreads",
+    "description": "TrendThreads is a modern e-commerce website showcasing trendy fashion products. Built with fundamental web technologies, it's ideal for exploring frontend UI creativity.",
+    "highlights": [
+      "Responsive product layout with hover animations",
+      "Built using HTML, CSS, and vanilla JavaScript",
+      "Hosted live for a seamless shopping experience"
+    ],
+    "image": "/src/assets/Trend.png",
+    "github": "https://github.com/sanjaynishanth/TrendThreads",
+    "live": "https://threadstrend.netlify.app/",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "role": "Frontend",
+    "year": "2023"
+  },
+  {
+    "name": "CookIT",
+    "description": "CookIT is a full-stack digital agency platform tailored for tech services. Designed to present services, receive leads, and showcase past works, it blends frontend appeal with backend power.",
+    "highlights": [
+      "End-to-end flow using React, Node.js, and MongoDB",
+      "Dynamic project section and contact functionality",
+      "Structured backend with Express and Mongoose"
+    ],
+    "image": "/src/assets/Cookit.png",
+    "github": "https://github.com/sanjaynishanth/CookIT-backend",
+    "live": "#",
+    "tech": ["React", "Node.js", "MongoDB"],
+    "role": "Backend",
+    "year": "2024"
+  },
+  {
+    "name": "YouTube Clone",
+    "description": "This educational YouTube clone was developed to master DOM manipulation and JavaScript fundamentals. It mimics the core UI of YouTube with a clean and responsive layout.",
+    "highlights": [
+      "Vanilla JS-based interactive video grid",
+      "Emphasizes DOM and layout skills",
+      "Fully responsive layout and animations"
+    ],
+    "image": "/src/assets/YTclone.png",
+    "github": "https://github.com/sanjaynishanth/Yt-Clone",
+    "live": "https://utube-cloneapp.netlify.app/",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "role": "Frontend",
+    "year": "2023"
+  }
+]
