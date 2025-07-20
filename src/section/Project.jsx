@@ -1,7 +1,7 @@
 // src/pages/Project.jsx
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import projects from "../data/projectData.json";
+import projects from "../data/ProjectData.json";
 import ProjectThumbnail from "../components/ProjectThumbnail";
 import ProjectDescription from "../components/ProjectDescription";
 import Skills from "../components/Skills";
